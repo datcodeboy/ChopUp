@@ -1,0 +1,23 @@
+Admin users 
+
+Owners
+===========
+
+Resturant(multiple)
+
+Menus 
+
+Tables //this is used to track orders
+
+Orders
+==========
+
+Customer details
+
+
+
+Menus
+- name of the dish
+- price of the dish
+- description
+- image
