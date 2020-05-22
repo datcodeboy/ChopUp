@@ -3,7 +3,7 @@ Admin users
 Owners
 ===========
 
-Resturant(multiple)
+Resturant(multiple)/brand_id
 
 Menus 
 
