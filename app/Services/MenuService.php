@@ -6,7 +6,7 @@ use App\Models\Menu;
 
 class MenuService
 {
-    Public function getMenuWithCategory(array $brand_ids)
+    Public function getMenuWithCategories(array $brand_ids)
     {
         $categories = Menu::whereIn('brand_id', $brand_ids)
             ->get()

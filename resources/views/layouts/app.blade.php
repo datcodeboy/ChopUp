@@ -76,5 +76,6 @@
             @yield('content')
         </main>
     </div>
+    <script type="text/javascript" src="https://unpkg.com/vue@2.4.2/dist/vue.js"></script>
 </body>
 </html>

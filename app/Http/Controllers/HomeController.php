@@ -27,7 +27,7 @@ class HomeController extends Controller
     {
         $brand_ids = [1];
         
-        $categories = $service->getMenuWithCategory($brand_ids);
-        return view('home', compact('categories'));
+        $menus = $service->getMenuWithCategories($brand_ids);
+        return view('home', compact('menus'));
     }
 }
